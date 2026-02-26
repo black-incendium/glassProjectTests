@@ -1,0 +1,32 @@
+{
+    "sprites": [
+        {
+            "name": "spritesheetTile1",
+            "x": 0,
+            "y": 0,
+            "width": 32,
+            "height": 32
+        },
+        {
+            "name": "spritesheetTile2",
+            "x": 32,
+            "y": 0,
+            "width": 32,
+            "height": 32
+        },
+        {
+            "name": "spritesheetTile3",
+            "x": 0,
+            "y": 32,
+            "width": 32,
+            "height": 32
+        },
+        {
+            "name": "spritesheetTile4",
+            "x": 32,
+            "y": 32,
+            "width": 32,
+            "height": 32
+        }
+    ]
+}
