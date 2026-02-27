@@ -7,4 +7,9 @@ export const layoutConfig = [
         type: 'sprite',
         assets: ['background'],
     },
+
+    {
+        id: 'randomSquaresContainer',
+        type: 'container',
+    }
 ] as anyComponentInitDataType[];
