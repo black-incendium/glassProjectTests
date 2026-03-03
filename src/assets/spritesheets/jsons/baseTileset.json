@@ -1,0 +1,279 @@
+{
+    "sprites": [
+        {
+            "name": "basicTile0",
+            "x": 0,
+            "y": 0,
+            "width": 16,
+            "height": 16
+        },
+        {
+            "name": "basicTile1",
+            "x": 16,
+            "y": 0,
+            "width": 16,
+            "height": 16
+        },
+        {
+            "name": "basicTile2",
+            "x": 32,
+            "y": 0,
+            "width": 16,
+            "height": 16
+        },
+        {
+            "name": "basicTile3",
+            "x": 48,
+            "y": 0,
+            "width": 16,
+            "height": 16
+        },
+        {
+            "name": "basicTile4",
+            "x": 64,
+            "y": 0,
+            "width": 16,
+            "height": 16
+        },
+        {
+            "name": "basicTile5",
+            "x": 80,
+            "y": 0,
+            "width": 16,
+            "height": 16
+        },
+        {
+            "name": "basicTile6",
+            "x": 96,
+            "y": 0,
+            "width": 16,
+            "height": 16
+        },
+        {
+            "name": "basicTile7",
+            "x": 112,
+            "y": 0,
+            "width": 16,
+            "height": 16
+        },
+        {
+            "name": "basicTile8",
+            "x": 128,
+            "y": 0,
+            "width": 16,
+            "height": 16
+        },
+        {
+            "name": "basicTile9",
+            "x": 144,
+            "y": 0,
+            "width": 16,
+            "height": 16
+        },
+        {
+            "name": "basicTile10",
+            "x": 160,
+            "y": 0,
+            "width": 16,
+            "height": 16
+        },
+        {
+            "name": "basicTile11",
+            "x": 176,
+            "y": 0,
+            "width": 16,
+            "height": 16
+        },
+        {
+            "name": "basicTile12",
+            "x": 192,
+            "y": 0,
+            "width": 16,
+            "height": 16
+        },
+        {
+            "name": "basicTile13",
+            "x": 32,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 90
+        },
+        {
+            "name": "basicTile14",
+            "x": 32,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 180
+        },
+        {
+            "name": "basicTile15",
+            "x": 32,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 270
+        },
+        {
+            "name": "basicTile16",
+            "x": 48,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 90
+        },
+        {
+            "name": "basicTile17",
+            "x": 64,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 90
+        },
+        {
+            "name": "basicTile18",
+            "x": 64,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 180
+        },
+        {
+            "name": "basicTile19",
+            "x": 64,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 270
+        },
+        {
+            "name": "basicTile20",
+            "x": 80,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 90
+        },
+        {
+            "name": "basicTile21",
+            "x": 80,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 180
+        },
+        {
+            "name": "basicTile22",
+            "x": 80,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 270
+        },
+        {
+            "name": "basicTile23",
+            "x": 96,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 90
+        },
+        {
+            "name": "basicTile24",
+            "x": 96,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 180
+        },
+        {
+            "name": "basicTile25",
+            "x": 96,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 270
+        },
+        {
+            "name": "basicTile26",
+            "x": 128,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 90
+        },
+        {
+            "name": "basicTile27",
+            "x": 128,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 180
+        },
+        {
+            "name": "basicTile28",
+            "x": 128,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 270
+        },
+        {
+            "name": "basicTile29",
+            "x": 144,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 90
+        },
+        {
+            "name": "basicTile30",
+            "x": 144,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 180
+        },
+        {
+            "name": "basicTile31",
+            "x": 144,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 270
+        },
+        {
+            "name": "basicTile32",
+            "x": 160,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 90
+        },
+        {
+            "name": "basicTile33",
+            "x": 176,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 90
+        },
+        {
+            "name": "basicTile34",
+            "x": 176,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 180
+        },
+        {
+            "name": "basicTile35",
+            "x": 176,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "rotation": 270
+        }
+    ]
+}
